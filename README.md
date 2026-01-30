@@ -9,14 +9,14 @@
 -Track monthly sales trends.
 -Provide interactive visual insights for business users.
 ## Dataset used
--<a href=”https://github.com/Ashwinikolpe/ecommerce-sales-dashboard-powerbi/blob/main/Details.csv”> Dataset </a>
--<a href=”https://github.com/Ashwinikolpe/ecommerce-sales-dashboard-powerbi/blob/main/Orders.csv”> Dataset </a>
+-<a href=” https://github.com/Ashwinikolpe/ecommerce-sales-dashboard-powerbi/blob/main/Details.csv ”> Dataset </a>
+-<a href=” https://github.com/Ashwinikolpe/ecommerce-sales-dashboard-powerbi/blob/main/Orders.csv ”> Dataset </a>
 ## Tools & Technologies
 -Power BI Desktop
 -Data Cleaning & Transformation (Power Query)
 ## Dashboard Preview
  
--<a href=” https://github.com/Ashwinikolpe/ecommerce-sales-dashboard-powerbi/blob/main/Screenshot.png”> Dashboard Image </a>
+-<a href=” https://github.com/Ashwinikolpe/ecommerce-sales-dashboard-powerbi/blob/main/Screenshot.png ”> Dashboard Image </a>
 ## Project Insights
 -Clothing category generates the highest revenue.
 -Sales peak during festive months.
